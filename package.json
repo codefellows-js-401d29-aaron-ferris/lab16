@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "jest": "^23.6.0"
+    "jest": "^23.6.0",
+    "jsdoc": "^3.5.5"
   }
 }
