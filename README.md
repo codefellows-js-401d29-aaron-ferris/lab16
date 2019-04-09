@@ -4,15 +4,16 @@
 ## API Server
 
 ### Author: Aaron Ferris
-![Build Status](https://travis-ci.com/js401-ferris-trainor-apiserver/apiserver.svg?branch=master)
+[![Build Status](https://www.travis-ci.com/codefellows-js-401d29-aaron-ferris/lab16.svg?branch=master)
 
 ### Links and Resources
-* [repo](https://github.com/js401-ferris-trainor-apiserver/apiserver/pull/2)
-* [travis](https://travis-ci.com/js401-ferris-trainor-apiserver/apiserver)
-* [back-end](https://api-auth-server-401javascript.herokuapp.com/)
+* [PR](https://github.com/codefellows-js-401d29-aaron-ferris/lab16/pull/1)  
+* [travis](https://www.travis-ci.com/codefellows-js-401d29-aaron-ferris/lab16)  
 
 #### Documentation
-* [jsdoc](https://api-auth-server-401javascript.herokuapp.com/docs)
+* [jsdoc](https://github.com/codefellows-js-401d29-aaron-ferris/lab16/tree/working/docs)
+
+
 
 ### Modules
 #### app.js
@@ -58,4 +59,4 @@
 * I tried to run tests, but everything I did with mocks didn't work
 
 #### UML
-![UML Diagram](assets/uml.jpg)
+![UML Diagram]()
